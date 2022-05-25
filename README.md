@@ -1,6 +1,6 @@
-# Aerospace.js
+# Aerospace Utils
 
-Aerospace.js is a typescript/javascript library that will compute gas dynamics problems for you
+Aerospace Utils is a typescript/javascript library that will compute gas dynamics problems for you
 
 ## Installation
 
@@ -12,7 +12,7 @@ npm install aerospace
 
 ## Usage
 
-This project is still in the planning stage of development, and should not be consumed yet
+This project is still in early stages of development and should not be consumed yet
 
 ## Development setup
 
