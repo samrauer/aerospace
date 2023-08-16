@@ -1,0 +1,1 @@
+LTI - linear time invariant
