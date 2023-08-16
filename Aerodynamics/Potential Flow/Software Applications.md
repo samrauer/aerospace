@@ -1,4 +1,4 @@
-Software applications use potential flow equations to get aerodynamic properties about an aircraft. There are different ways to create surfaces in potential flow, but vortex lattice methods are most commonly used.
+Software applications can use potential flow equations to get aerodynamic properties about an aircraft. There are different ways to create surfaces in potential flow, but vortex lattice methods are most commonly used.
 
 ## AVL
 
