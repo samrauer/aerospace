@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be65566cd092fd2b",
+        "id": "4744786811a1e125",
         "type": "tabs",
         "children": [
           {
-            "id": "9a72e970ca9be6f7",
+            "id": "c084716fb57daaed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerodynamics/Potential Flow/Vortex Lattice.md",
+                "file": "Math/Laplace Transform.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aerodynamics/Potential Flow/Vortex Lattice.md",
+                "file": "Math/Laplace Transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aerodynamics/Potential Flow/Vortex Lattice.md",
+                "file": "Math/Laplace Transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aerodynamics/Potential Flow/Vortex Lattice.md"
+                "file": "Math/Laplace Transform.md"
               }
             }
           }
@@ -146,13 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a72e970ca9be6f7",
+  "active": "c084716fb57daaed",
   "lastOpenFiles": [
-    "About.md",
     "Controls/LTI Systems.md",
+    "Math/Laplace Transform.md",
+    "Math/Linear Algebra",
+    "Math",
     "Navigation/GPS.md",
-    "Aerodynamics/Potential Flow/Horseshoe vortex.md",
     "Aerodynamics/Potential Flow/Vortex Lattice.md",
+    "About.md",
+    "Aerodynamics/Potential Flow/Horseshoe vortex.md",
     "Aerodynamics/Potential Flow/Software Applications.md",
     "Aerodynamics/CFD/CFL Number.md",
     "Aerodynamics/CFD/Regions of Difficult Convergence.md",
@@ -167,8 +170,6 @@
     "Aerodynamics/CFD",
     "Structures",
     "Navigation",
-    "Guidance",
-    "Controls",
-    "Aerodynamics"
+    "Guidance"
   ]
 }
