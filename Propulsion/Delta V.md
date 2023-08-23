@@ -1,0 +1,1 @@
+Delta V is change in velocity of a vehicle. Often, space mission propulsion requirements are defined in how much "delta V" is needed.
