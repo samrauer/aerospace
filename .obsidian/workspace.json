@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "129c264fc6cd77e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gas Dynamics/Isentropic flow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structures/Bar.md",
+                "file": "Gas Dynamics/Isentropic flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Structures/Bar.md",
+                "file": "Gas Dynamics/Isentropic flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Structures/Bar.md"
+                "file": "Gas Dynamics/Isentropic flow.md"
               }
             }
           }
@@ -146,23 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c084716fb57daaed",
+  "active": "129c264fc6cd77e6",
   "lastOpenFiles": [
-    "Aerodynamics/Potential Flow/Horseshoe vortex.md",
-    "Aerodynamics/Potential Flow/Vortex Lattice.md",
-    "Aerodynamics/Potential Flow/About.md",
-    "Aerodynamics/Potential Flow/Software Applications.md",
-    "Structures/Bar.md",
     "Gas Dynamics/Reynolds number.md",
+    "Gas Dynamics/Isentropic flow.md",
     "Gas Dynamics/Viscosity.md",
-    "Controls/LTI Systems.md",
-    "Propulsion/Delta V.md",
-    "Propulsion/Rocket equation.md",
-    "Navigation/GPS.md",
-    "Math/Laplace Transform.md",
-    "Aerodynamics/CFD/CFL Number.md",
-    "Aerodynamics/CFD/RANS.md",
+    "Aerodynamics/Potential Flow/Vortex Lattice.md",
+    "Aerodynamics/Potential Flow/Software Applications.md",
+    "Aerodynamics/Potential Flow/Horseshoe vortex.md",
+    "Aerodynamics/Potential Flow/About.md",
     "Aerodynamics/CFD/Regions of Difficult Convergence.md",
+    "Aerodynamics/CFD/RANS.md",
+    "Aerodynamics/CFD/CFL Number.md",
+    "Structures/Bar.md",
+    "Structures/Untitled.md",
+    "Propulsion/Rocket equation.md",
+    "Propulsion/Delta V.md",
+    "Navigation/GPS.md",
+    "Controls/LTI Systems.md",
+    "Math/Laplace Transform.md",
     "Math/Linear Algebra",
     "Math",
     "About.md",
