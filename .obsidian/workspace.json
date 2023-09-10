@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gas Dynamics/Isentropic flow.md",
+                "file": "Math/Linear Algebra/Eigenvector.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gas Dynamics/Isentropic flow.md",
+                "file": "Math/Linear Algebra/Eigenvector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gas Dynamics/Isentropic flow.md",
+                "file": "Math/Linear Algebra/Eigenvector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gas Dynamics/Isentropic flow.md"
+                "file": "Math/Linear Algebra/Eigenvector.md"
               }
             }
           }
@@ -161,8 +161,10 @@
   },
   "active": "129c264fc6cd77e6",
   "lastOpenFiles": [
-    "Gas Dynamics/Reynolds number.md",
+    "Math/Laplace Transform.md",
+    "Math/Linear Algebra/Eigenvector.md",
     "Gas Dynamics/Isentropic flow.md",
+    "Gas Dynamics/Reynolds number.md",
     "Gas Dynamics/Viscosity.md",
     "Aerodynamics/Potential Flow/Vortex Lattice.md",
     "Aerodynamics/Potential Flow/Software Applications.md",
@@ -177,7 +179,6 @@
     "Propulsion/Delta V.md",
     "Navigation/GPS.md",
     "Controls/LTI Systems.md",
-    "Math/Laplace Transform.md",
     "Math/Linear Algebra",
     "Math",
     "About.md",
